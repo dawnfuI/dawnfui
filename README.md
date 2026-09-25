@@ -5,13 +5,23 @@
 <h2 align="center">hi, i'm dawn (also known as tom)</h2>
 
 <p align="center">
-  this is the account where i mainly store cheats, injectors and other useful tools for game and cheat development.
+  this is the account where i mainly store cheats, injectors and other useful tools for game and cheat development.<br />
+  i mainly like making UIs, for minecraft development and with ImGui in C++.
 </p>
 
 <h3 align="center">languages</h3>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp,php,ts,html,css,py" alt="Java, C++, PHP, TypeScript, HTML5, CSS, Python" />
+</p>
+
+<h3 align="center">tech</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vulkan-AC162C?style=for-the-badge&logo=vulkan&logoColor=white" alt="Vulkan" />
+  <img src="https://img.shields.io/badge/Metal-000000?style=for-the-badge&logo=apple&logoColor=white" alt="Metal" />
+  <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white" alt="OpenGL" />
+  <img src="https://img.shields.io/badge/DirectX-107C10?style=for-the-badge" alt="DirectX" />
 </p>
 
 <h3 align="center">contact</h3>
