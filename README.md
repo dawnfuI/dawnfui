@@ -9,6 +9,12 @@
   i mainly like making UIs, for minecraft development and with ImGui in C++.
 </p>
 
+<p align="center">
+  <i>"The art of wasted potential<br />
+  is being gifted<br />
+  and like a sloth."</i>
+</p>
+
 <h3 align="center">languages</h3>
 
 <p align="center">
